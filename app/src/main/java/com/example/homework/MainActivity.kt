@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
 
         //Обработчик нажатия на кнопку "Задание 2"
         buttonB.setOnClickListener {
-
+		print("")
         }
 
         //Обработчик нажатия на кнопку "Задание 3"
